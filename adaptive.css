@@ -1,7 +1,7 @@
 @media (min-width: 819px) and (max-width: 1199px) {
   .weather3 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
   }
   .weather {
       display: flex;
