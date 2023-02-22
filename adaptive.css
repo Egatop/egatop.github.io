@@ -1,0 +1,131 @@
+/*==========  Desktop First  ========== */
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  /* */
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  .weather3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .weather {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .weather2 {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  main {
+    width: 100%
+  }
+  header{
+    width: 100%;
+  }
+  footer {
+    width: 100%;
+
+  }
+  /* */
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  .weather3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .weather {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .weather2 {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  main {
+    width: 100%
+  }
+  header{
+    width: 100%;
+  }
+  footer {
+    width: 100%;
+
+  }
+  /* */
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+
+    .weather3 {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .weather {
+        display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+    }
+    .weather2 {
+        display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+    }
+    main {
+      width: 100%
+    }
+    header{
+      width: 100%;
+    }
+    footer {
+      width: 100%;
+
+    }
+
+  /* */
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+  .weather3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .weather {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .weather2 {
+      display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  main {
+    width: 100%
+  }
+  header{
+    width: 100%;
+  }
+  footer {
+    width: 100%;
+
+  }
+  /* */
+}
