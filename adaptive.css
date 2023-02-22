@@ -1,4 +1,4 @@
-@media (min-width: 819px) and (max-width: 1199px) {
+@media (min-width: 300px) or (max-width: 800px) {
   .weather3 {
     display: flex;
     justify-content: space-around;
